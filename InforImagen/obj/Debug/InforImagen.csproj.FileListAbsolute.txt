@@ -1,0 +1,18 @@
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\bin\Debug\InforImagen.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\bin\Debug\InforImagen.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\bin\Debug\InforImagen.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\obj\Debug\InforImagen.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\obj\Debug\InforImagen.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\obj\Debug\InforImagen.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\obj\Debug\InforImagen.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\obj\Debug\InforImagen.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\InforImagen\InforImagen\obj\Debug\InforImagen.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\bin\Debug\InforImagen.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\obj\Debug\InforImagen.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\obj\Debug\InforImagen.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\bin\Debug\InforImagen.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\bin\Debug\InforImagen.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\obj\Debug\InforImagen.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\obj\Debug\InforImagen.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\obj\Debug\InforImagen.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\InforImagen\InforImagen\obj\Debug\InforImagen.csproj.GenerateResource.Cache
